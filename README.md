@@ -8,6 +8,10 @@ prism sets colorscheme basing on your working directory, to help you distinguish
 
 ![vscode-prism](https://user-images.githubusercontent.com/1141198/81501495-3d43d380-930b-11ea-9cda-3beafe95c1e5.png)
 
+## Get a release
+
+[Github-releases](https://github.com/UncleBill/prism.vim/releases)
+
 ## Release Notes
 
 ### 0.0.1
