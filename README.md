@@ -10,7 +10,7 @@ prism sets colorscheme basing on your working directory, to help you distinguish
 
 ## Get a release
 
-[Github-releases](https://github.com/UncleBill/prism.vim/releases)
+[Github-releases](https://github.com/UncleBill/vscode-prism/releases)
 
 ## Release Notes
 
