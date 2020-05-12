@@ -1,16 +1,18 @@
-# prism
+# prisme
 
-port from [prism.vim](https://github.com/UncleBill/prism.vim)
+port from [prism.vim](https://github.com/UncleBill/prism.vim).
+
+> prisme, prism in France.
 
 ## Features
 
-prism sets colorscheme basing on your working directory, to help you distinguishing a specific Vim instance among multiple ones from window previewer.
+prisme sets colorscheme basing on your working directory, to help you distinguishing a specific VSCode instance among multiple ones from window previewer.
 
-![vscode-prism](https://user-images.githubusercontent.com/1141198/81501495-3d43d380-930b-11ea-9cda-3beafe95c1e5.png)
+![vscode-prisme](https://user-images.githubusercontent.com/1141198/81501495-3d43d380-930b-11ea-9cda-3beafe95c1e5.png)
 
 ## Get a release
 
-[Github-releases](https://github.com/UncleBill/vscode-prism/releases)
+[Github-releases](https://github.com/UncleBill/vscode-prisme/releases)
 
 ## Release Notes
 

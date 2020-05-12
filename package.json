@@ -1,6 +1,6 @@
 {
-	"name": "vscode-prism",
-	"displayName": "prism",
+	"name": "vscode-prisme",
+	"displayName": "prisme",
 	"description": "port of prism.vim, help to distinguish mutilple from multiple vscode instances.",
 	"version": "0.0.1",
 	"engines": {
@@ -14,9 +14,14 @@
 	],
 	"main": "./out/extension.js",
 	"publisher": "unclebill",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:UncleBill/vscode-prisme.git"
+	},
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
 		"compile": "tsc -p ./",
+		"pack": "vsce package",
 		"lint": "eslint src --ext ts",
 		"watch": "tsc -watch -p ./",
 		"pretest": "yarn run compile && yarn run lint",
